@@ -1,0 +1,1 @@
+{"scripts":{"test":"jest --coverage"},"devDependencies":{"assert":"^2.0.0","babel-core":"^6.26.3","babel-jest":"^27.5.1","babel-preset-es2015":"^6.24.1","babel-preset-stage-0":"^6.24.1","chai":"^4.3.6","jest-cli":"^27.5.1"}}
